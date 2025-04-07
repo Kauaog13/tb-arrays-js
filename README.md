@@ -1,2 +1,1 @@
-# tb-arrays-js
-Projeto da Faculdade
+Trabalho da Faculdade de ADS.
