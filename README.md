@@ -33,7 +33,12 @@ O objetivo do projeto é demonstrar, de forma prática, o uso de alguns **métod
 Este projeto tem fins **didáticos**, com foco em **reforçar o aprendizado sobre arrays em JavaScript**, ajudando estudantes a visualizarem como esses métodos funcionam na prática.
 
 ---
+## 🔗 Link para a Visualização
 
+Você pode acessar a versão online do projeto através do seguinte link:  
+https://kauaog13.github.io/tb-arrays-js/
+
+---
 ## 📁 Como Rodar Localmente
 
 1. Clone o repositório:
